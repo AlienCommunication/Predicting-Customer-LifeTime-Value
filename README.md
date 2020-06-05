@@ -2,6 +2,15 @@
 
 Customer lifetime value helps you to understand how much your customer like your product or services, It gives you an opportunity to know what you are doing right and wrong. It is very important to distinguish active customers from inactive customers.
 
+
+
+## Top customers which are going to make purchase within 10 days or in next days
+
+![Screenshot 2020-06-06 at 12 53 42 AM](https://user-images.githubusercontent.com/50583371/83915179-5ddb3e00-a790-11ea-99a6-1fd7d8bcbc50.png)
+
+
+
+#
   What is Customer life time? - It is the amount spent by the customer during his relationship with the company
 
  Let's say A company spends 50 USD for acquiring a customer, That customer stays for 15 years with the company before churning or natural cause. This customer spent 100 USD per year to buy our service. In such cases Total customer life time value will be 
