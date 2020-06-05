@@ -10,7 +10,11 @@ Customer lifetime value helps you to understand how much your customer like your
 
 
 
-#
+# Customer purchase again-
+
+![Screenshot 2020-06-06 at 12 52 32 AM](https://user-images.githubusercontent.com/50583371/83915400-c1656b80-a790-11ea-8b01-0c5eadcbb7fa.png)
+
+
   What is Customer life time? - It is the amount spent by the customer during his relationship with the company
 
  Let's say A company spends 50 USD for acquiring a customer, That customer stays for 15 years with the company before churning or natural cause. This customer spent 100 USD per year to buy our service. In such cases Total customer life time value will be 
